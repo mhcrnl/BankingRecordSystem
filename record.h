@@ -13,5 +13,6 @@ void readAccount(int accountNumber);
 void searchAccount();
 void deleteAccount();
 Account getDetails();
+void readAllData();
 
 #endif //BANKINGRECORDSYSTEM_RECORD_H
